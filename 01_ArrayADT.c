@@ -20,7 +20,7 @@ void setval(struct myarray *a)
     int n;
     for (int i = 0; i < (*a).used_size; i++)
     {
-        printf("Enter element %d ;", i);
+        printf("Enter element %d ", i);
         scanf("%d", &n);
         (*a).ptr[i] = n;
     }
