@@ -1,2 +1,2 @@
 # C
-My C Language Projects.
+My C Language Program.
