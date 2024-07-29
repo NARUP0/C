@@ -145,7 +145,7 @@ char InfixtoPostfix(char * infix)
     free(sp);
     free(postfix);                                                 //freeing memory
 
-    return j ;
+    return j ;                                               //returnig j for fomality
 
 }    
 
