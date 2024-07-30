@@ -77,7 +77,7 @@ int main()
     printf("%d\n",dequeue());             //poped 5 elements
     printf("%d\n",dequeue());
     fre();
-
+    
     return 0 ;
 
 }
