@@ -1,3 +1,5 @@
+//time complexity normal bubble sort is O(n^2)
+
 #include <stdio.h>
 
 void printarray(int * arr , int n)                      //function for printing array

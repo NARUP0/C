@@ -1,3 +1,4 @@
+//time complexity adaptive bubble sort is O(n) if array in input is already sorted. otherwise O(n^2).
 #include <stdio.h>
 
 void printarray(int * arr , int n)                      //function for printing array
