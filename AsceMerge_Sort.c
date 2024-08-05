@@ -1,3 +1,5 @@
+// time complexity is O(n.logn).
+
 #include <stdio.h>
 
 void printarray(int * arr , int n)                      //function for printing array
